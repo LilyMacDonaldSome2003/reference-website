@@ -10,11 +10,14 @@
 - HTML is the coding language used to describe the content of websites known as Hypertext Markup Language.
 
 4. Proper syntax for HTML tags
-- <h1>I am a heading</h1>
+- The tags are used to define the role of the text. For example '<h1>I am a heading</h1>'
 
 5. Explain or demonstrate commonly used html tags/elements:
     headings: h1-h6
+    - h1 demonstrates the most important heading of the web page. 
+    - h6 demonstrates the least important heading and the smallest one out of all the headings.
     p
+    - p demonstrates the paragraph 
     lists: ul, ol, dl
     a
     img
