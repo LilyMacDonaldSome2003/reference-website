@@ -19,17 +19,31 @@
     p
     - p demonstrates the paragraph 
     lists: ul, ol, dl
+    - ul demonstrates an unordered list
+    - ol demonstrates an ordered list
+    - dl stands for description list
     a
+    - open <a> demonstrates where the link should begin and the end.
+    - closing </a> demonstrates where the link ends.
     img
+    - img represents the image and the location of the image and the alternative content
     figure (img & figcaption)
     q
+    - q demonstrates quotes embedded in the element to show a paragraph.
     blockquote
+    - blockquote demonstrates large stand quotes.
     cite
+    - cite demonstrates the source of the quote.
     em
+    - em is a phrasing element that demonstrates the emphasis.
     strong
+    - strong is a phrasing element that demonstrates the many emphasis and strong importance.
     b
+    - be is a phrasing element that demonstrates a keyword.
     i
+    - i is a phrasing element that demonstrates another language, technical term and/or title.
     small
+    - small demonstrates a sentence that's small or tiny.
 - 
 
 6. Explain block Elements and also explain the list of block elements and why they are used from below:
@@ -46,19 +60,20 @@
     footer
     span
     small
-- 
+- Block elements are used to group elements together. The list of block elemts are used to give meaning to the content yet sometimes an element is needed for meaningless.
 
 7. Explain why accessibility is important and also explain the accessibility properties like:
     landmark roles
     aria labels
     image alternative texts
-- 
+- Accessibility is important because it makes the web work for everyone, including users with disabilities. Landmark roles are to help those who use screen readers. Aria labels are to help the user with a non-visual label. And image alternative texts are the written copy that appears in place of an image on a webpage if the image fails to load on a user's screen.
 
 8. What is CSS and how can we implement CSS to our html file (write a proper explanation with the code required to attach a CSS file inside html file)
-- 
+- CSS is defined as Cascading Style Sheets which is a language used to control appearence and style of the html page provided.
 
 9. What is the difference between CSS property and value (write explanation and an example code)
-- 
+- The difference between CSS property and value is that the property is the type of design you want to add and the value is the accepted value for the property
+-  
 
 10. Why do we use border-box property in CSS?
 - 
